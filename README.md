@@ -12,3 +12,6 @@ Simple Git Repository for GDSA "Source Control Awareness" Event
 8. Create a Pull Request - to merge with master
 9. On GitHub, review the pull request, and Merge if it will cause no conflicts
 10. Delete your branch, as it is no longer needed
+
+# Resources
+[Hello World](https://guides.github.com/activities/hello-world/)
