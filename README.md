@@ -14,4 +14,4 @@ Simple Git Repository for GDSA "Source Control Awareness" Event
 10. Delete your branch, as it is no longer needed
 
 # Resources
-[Hello World](https://guides.github.com/activities/hello-world/)
+GitHub Guide: [Hello World](https://guides.github.com/activities/hello-world/) - Walks you through a project similar to the one we did at the event
